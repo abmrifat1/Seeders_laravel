@@ -25,7 +25,7 @@ class PagesTableSeeder extends Seeder
            [
                'title'=>'Contact Page',
                'slug'=>'contact',
-               'content'=>'This is Contact pages',
+               'content'=>'This is Contact page',
            ]
        ]);
     }
